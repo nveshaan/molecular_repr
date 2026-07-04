@@ -1,10 +1,10 @@
-# Representation Learning for Biological Modalities
+# Molecular Representation Learning
 
 ## Setup
 
 ```bash
-git clone https://github.com/nveshaan/bio_repr.git
-cd bio_repr
+git clone https://github.com/nveshaan/molecular_repr.git
+cd molecular_repr
 uv sync
 ```
 
